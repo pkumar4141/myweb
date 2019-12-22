@@ -25,12 +25,12 @@
 	
 	<distributionManagement>
 		 <snapshotRepository>
-		    <id>nexusRepo</id>
+		    <id>nexus_cred</id>
 		    <url>http://35.184.177.160:8081/repository/freestyle_sample_snap/</url>
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>nexusRepo</id>
+		    <id>nexus_cred</id>
 		    <url>http://35.184.177.160:8081/repository/freestyle_sample_release/</url>
 		</repository>
   	</distributionManagement>
